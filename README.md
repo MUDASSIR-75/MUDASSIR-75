@@ -49,5 +49,7 @@
 </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUDASSIR-75)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=MUDASSIR-75)](https://git.io/streak-stats)
+
 
 **Show some love by starring some of the repositories ❤️**
