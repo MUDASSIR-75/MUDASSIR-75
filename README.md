@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **AI Engineer and LLM Specialist** with a **BS in Software Engineering from COMSATS University Islamabad**. I specialize in building production-grade, domain-specific AI solutions that solve real-world problems across healthcare, education, and enterprise sectors.
+I'm a passionate **AI Engineer** and **LLM Specialist** with expertise in **Full Stack AI Application Development**. I specialize in building production-grade, domain-specific AI solutions that solve real-world problems across healthcare, education, and enterprise sectors.
 
 As the founder of **[ENDEVSOLS](https://github.com/ENDEVSOLS)** (a Pakistan-based private limited company), I lead the development of innovative AI applications and contribute actively to the open-source community, including **LangChain** integrations.
 
