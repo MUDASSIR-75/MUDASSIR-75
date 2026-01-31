@@ -40,7 +40,10 @@ As the founder of **[ENDEVSOLS](https://github.com/ENDEVSOLS)** (a Pakistan-base
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="50" height="50"/>
+
+  <!-- ✅ FIXED TailwindCSS logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="50" height="50"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="Material-UI" width="50" height="50"/>
@@ -60,7 +63,10 @@ As the founder of **[ENDEVSOLS](https://github.com/ENDEVSOLS)** (a Pakistan-base
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/>
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="50" height="50"/>
-  <img src="https://asset.brandfetch.io/idZAyF9rlg/idm22gySlH.png" alt="OpenAI" width="50" height="50"/>
+
+  <!-- ✅ FIXED OpenAI logo (brandfetch often breaks) -->
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/openai.svg" alt="OpenAI" width="50" height="50"/>
+
   <img src="https://avatars.githubusercontent.com/u/151674099?s=200&v=4" alt="LlamaIndex" width="50" height="50"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="50" height="50"/>
 </p>
@@ -99,7 +105,8 @@ As the founder of **[ENDEVSOLS](https://github.com/ENDEVSOLS)** (a Pakistan-base
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MUDASSIR-75&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MUDASSIR-75&theme=tokyonight)
+
 
 </div>
 
@@ -142,18 +149,45 @@ I'm always open to discussing:
 
 ---
 
+## 💭 Current Focus
+
 <div align="center">
 
-### 💭 Current Focus
+<table>
+  <tr>
+    <th>📚 Learning</th>
+    <th>🚀 Building</th>
+    <th>🎨 Frontend</th>
+    <th>🤝 Contributing</th>
+  </tr>
+  <tr>
+    <td>
+      • Advanced RAG techniques<br/>
+      • Multi-agent systems<br/>
+      • LLM fine-tuning
+    </td>
+    <td>
+      • Production AI agents<br/>
+      • Enterprise chatbots<br/>
+      • Domain-specific LLMs
+    </td>
+    <td>
+      • React.js<br/>
+      • Next.js<br/>
+      • Tailwind UI/UX
+    </td>
+    <td>
+      • LangChain<br/>
+      • Open-source AI tools
+    </td>
+  </tr>
+</table>
 
-```python
-current_focus = {
-    "learning": ["Advanced RAG techniques", "Multi-agent systems", "LLM fine-tuning"],
-    "building": ["Production AI agents", "Enterprise chatbots", "Domain-specific LLMs"],
-    "frontend": ["React.js", "Next.js", "Modern UI/UX with Tailwind CSS"],
-    "contributing": ["LangChain", "Open-source AI tools"]
-}
-```
+<br/>
+
+![Learning](https://img.shields.io/badge/📚_Learning-Advanced_RAG_&_Agents-blue?style=for-the-badge)
+![Building](https://img.shields.io/badge/🚀_Building-Production_AI_Systems-green?style=for-the-badge)
+![Contributing](https://img.shields.io/badge/🤝_Contributing-Open_Source-orange?style=for-the-badge)
 
 </div>
 
