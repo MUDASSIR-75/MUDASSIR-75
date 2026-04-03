@@ -95,19 +95,9 @@ As the founder of **[ENDEVSOLS](https://github.com/ENDEVSOLS)** (a Pakistan-base
 ## 📊 GitHub Stats
 
 <div align="center">
-  
 <a href="https://github.com/MUDASSIR-75">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MUDASSIR-75&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUDASSIR-75&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=MUDASSIR-75&theme=github-dark-blue&background=0D1117&border=30363D&stroke=30363D&ring=E2B96F&fire=E2B96F&currStreakNum=E2B96F&sideNums=C9D1D9&currStreakLabel=E2B96F&sideLabels=8B949E&dates=8B949E" />
 </a>
-
-</div>
-
-<div align="center">
-  
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MUDASSIR-75&theme=tokyonight)
-
-
 </div>
 
 <div align="center">
